@@ -1,0 +1,12 @@
+.form-control {
+    width: 75%;
+}
+
+.checkbox {
+    padding-left: 10PX !important;
+}
+
+.modal-title {
+    margin-left: 30%;
+    margin-right: 30%;
+}
